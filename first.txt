@@ -1,1 +1,3 @@
 neki tekst
+
+-feature 1 added
