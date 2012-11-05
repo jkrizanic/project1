@@ -1,3 +1,5 @@
 neki tekst
 
 -added to master
+
+-feature 1 added
